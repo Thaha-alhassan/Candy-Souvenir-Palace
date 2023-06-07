@@ -332,9 +332,9 @@ h6 {
 }
 
 .header .logo h1 {
-  font-size: 30px;
+  font-size: 25px;
   margin: 0;
-  font-weight: 3900;
+  font-weight: 250;
   color: goldenrod;
   font-family: var(--font-secondary);
 }
